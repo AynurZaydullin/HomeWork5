@@ -141,6 +141,8 @@ public class Main {
             case 10:
             case 11:
                 System.out.println("Осень"); break;
+            default:
+                System.out.println("Месяца с таким номером не существует.");
         }
     }
 }
